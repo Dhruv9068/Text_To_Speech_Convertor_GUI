@@ -1,4 +1,3 @@
-
 # Text To Speech Converter GUI
 
 ## Overview
@@ -48,9 +47,6 @@ python text_to_speech_converter.py
 ## Contributions
 
 Contributions are welcome! If you find any issues or want to suggest improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
+Replace `"your_username"` in the clone URL with your actual GitHub username. Also, make sure to have a file named `text_to_speech_converter.py` in your repository containing the main code.
